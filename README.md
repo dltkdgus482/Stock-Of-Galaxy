@@ -105,13 +105,6 @@ pnpm dev
 
 Jenkins와 ArgoCD를 통한 배포 자동화.
 
-## ERD 및 API 명세서
-
-- **ERD**: 주식 관련 데이터 및 사용자 정보를 효과적으로 관리하기 위해 MySQL을 기반으로 설계되었습니다.
-  ![image](https://hackmd.io/_uploads/SkCd6EIy1x.png)
-
-- **API 명세서**: REST API로 주식 데이터 및 뉴스 정보를 제공하며, GPT 분석 결과도 API로 연결되어 있습니다.
-
 ## 프로젝트 산출물
 
 - [요구사항 정의서](https://codingteststudy.notion.site/1-11c5e78bfb2e8014bceed79cf345fa9c?pvs=4)
@@ -125,37 +118,6 @@ Jenkins와 ArgoCD를 통한 배포 자동화.
 
 ## 팀원 정보
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="./image/Bernie.jpg" width="200px" height="200px" style="border-radius:50%;" alt="정희수"/><br />
-      <b>정희수 (Zara)</b><br />
-      <i>Frontend</i>
-    </td>
-    <td align="center">
-      <img src="./image/Ethan.png" width="200px" height="200px" style="border-radius:50%;" alt="이상현"/><br />
-      <b>이상현 (Artemis)</b><br />
-      <i>Frontend, Data</i>
-    </td>
-    <td align="center">
-      <img src="./image/Falcon.jpg" width="200px" height="200px" style="border-radius:50%;" alt="이상현"/><br />
-      <b>차민주 (Chloe)</b><br />
-      <i>Frontend</i>
-    </td>
-    <td align="center">
-      <img src="./image/Hermes.jpg" width="200px" height="200px" style="border-radius:50%;" alt="손배준"/><br />
-      <b>손배준 (Noun)</b><br />
-      <i>BigData, Backend</i>
-    </td>
-    <td align="center">
-      <img src="./image/Sophia.jpg" width="200px" height="200px" style="border-radius:50%;" alt="선예림"/><br />
-      <b>선예림 (Ellie)</b><br />
-      <i>Backend</i>
-    </td>
-    <td align="center">
-      <img src="./image/Jack.png" width="200px" height="200px" style="border-radius:50%;" alt="박지훈"/><br />
-      <b>박지훈 (Bobb)</b><br />
-      <i>Infra</i>
-    </td>
-  </tr>
-</table>
+#### Frontend : [![정희수](https://img.shields.io/badge/-정희수-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jungheesu) [![이상현](https://img.shields.io/badge/-이상현-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanghyun) [![차민주](https://img.shields.io/badge/-차민주-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minju)
+
+#### Backend : [![선예림](https://img.shields.io/badge/-선예림-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yerimseon) [![박지훈](https://img.shields.io/badge/-박지훈-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jihunpark) [![손배준](https://img.shields.io/badge/-손배준-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baejoon)
